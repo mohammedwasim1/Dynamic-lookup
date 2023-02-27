@@ -1,6 +1,6 @@
 # **Dynamic lookup**
 
-Dynamic Lookup is an Excel project that demonstrates dynamically find the prices of a brand and its products through the index-match functions. It is particularly useful for those working in the retail industry or those who need to keep track of product prices.
+Dynamic Lookup is an Excel project that demonstrates dynamically finding the prices of a brand and its products through the index-match functions. It is particularly useful for those working in the retail industry or those who need to keep track of product prices.
 
 ## **How to Use**
 
